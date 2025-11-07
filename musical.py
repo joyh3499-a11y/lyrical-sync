@@ -24,7 +24,7 @@ lyrics = [
     ("Toot jayenge makan, woh sare hasraton ke", 2.60),
     ("Guzre pal jo sath tere, wo pal hai bas sukoon ke",2.60),
     ("Mil lo ab tum iss tarah se, ke fir nahi miloge", 2.08),
-    ("Tu hi tha sath mein mere, Kaise main jiyunga akele", 72),
+    ("Tu hi tha sath mein mere, Kaise main jiyunga akele", 6.43),
     ("Taare gin gin ke ho gayi hai subha", 79),
     ("Tu hai kahan, khwabon ke iss sheher mein", 84),
     ("Mera dil tujhe dhundta, dhoondta", 90),
